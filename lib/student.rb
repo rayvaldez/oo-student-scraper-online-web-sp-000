@@ -7,6 +7,8 @@ class Student
   @@all = []
 
   def initialize(student_hash)
+    #takes in an argument of a hash and sets that new students attributes
+    #using the key/value paurs of that hash
     binding.pry
   end
 
